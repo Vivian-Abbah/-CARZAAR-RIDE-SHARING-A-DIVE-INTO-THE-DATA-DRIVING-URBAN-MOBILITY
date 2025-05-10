@@ -37,12 +37,14 @@ These statistics suggested a robust demand but hinted at potential service quali
 IN-ANALYSIS
 
 User Rating Trend
+
 ![image](https://github.com/user-attachments/assets/193bcfe1-eac6-452a-8c05-475fb00b7a4e)
 
 The user rating trend over the first week of January shows mild volatility, with daily averages ranging from 3.70 to 3.79. The peak on January 5 (3.79) indicates a successful day in terms of service quality or external conditions like favorable weather or high driver availability. Conversely, the dip on January 3 (3.71) and January 6 (3.71) could suggest issues such as ride delays, unavailability, or service inconsistency. This variation, though small, is significant when scaled to thousands of users and reflects a need to stabilize the user experience.
 Interpretation: Ratings are an indirect but powerful signal of overall customer satisfaction. Even small changes can result in churn if negative experiences stack up.
 
 Ride Duration by Distance
+
 ![image](https://github.com/user-attachments/assets/9b558f66-a5b4-4b33-a28c-b68d0e714ac5)
 
 Ride durations decrease steadily with the distance brackets:
@@ -52,36 +54,42 @@ This proportionality shows that the algorithm for matching and routing is functi
 Interpretation: Monitoring and optimizing these transition points could further improve time predictions and scheduling.
 
 Fare by Weather Condition
+
 ![image](https://github.com/user-attachments/assets/fbda1d0c-3928-4884-be08-5bbc1413feb9)
  
 Clear Weather rides generated the highest revenue ($386,623.15)—indicative of higher demand or uninterrupted ride operations. In Rainy and Foggy conditions, revenue drops substantially. Snowy and Thunderstorm conditions yield the least fare, under $30K, likely due to safety concerns or decreased user demand.
 Interpretation: Weather strongly affects ride demand and supply dynamics. Proactive planning around these conditions can prevent lost revenue.
 
 Payment Method Analysis
+
 ![image](https://github.com/user-attachments/assets/ce15e7c9-2f00-4150-9fe9-9426b3f665b6)
  
 Credit Cards contributed nearly 50% of the total fare. Mobile Wallets are growing, with $183,392.63, showing promise among tech-savvy users. Cash is the least used, possibly due to urban preferences and convenience.
 Interpretation: Digital payment systems are preferred. Leveraging this with offers or loyalty points can improve customer stickiness.
 
 Surge Pricing by Traffic
+
 ![image](https://github.com/user-attachments/assets/a3c76be7-a187-4142-bea3-7d64c9d7bb67)
  
 Medium traffic conditions yielded the highest revenue $302,045.61 and number of rides (5030). Low traffic had more rides than high traffic but significantly lower revenue. High traffic areas saw the fewest rides and lower fare recovery.
 Interpretation: The medium-traffic scenario is the most efficient balance of speed, ride count, and fare volume. This sweet spot should be the focus of operational deployment and marketing.
 
 Pickup Locations
+
 ![image](https://github.com/user-attachments/assets/0ab7f582-08d6-4521-910b-e80a17cb1ed9)
  
 Suburbs, Malls, Midtown, and University zones dominate pickup requests. The airport, Financial District, and Downtown are also active but slightly less.
 Interpretation: These insights can guide placement of drivers during peak hours and promotional campaigns based on geography.
 
 User Status
+
 ![image](https://github.com/user-attachments/assets/007db1de-cb09-4521-9a0a-da832a3e66c0)
  
 Returning Users: 39.97% Frequent Users: 30.61% New Users: 29.42%. The platform is attracting new users at a lower rate, but higher returning and frequent user percentages indicate a very healthy user retention.
 Interpretation: Retention strategies like ride credits, push notifications, or follow-up feedback collection should be explored.
 
 Driver Rating by Experience
+
 ![image](https://github.com/user-attachments/assets/74893fbb-688f-4f68-9b1c-c7dda1b5bdfa)
  
 Drivers with 6–9 years of experience have the highest number of top ratings. While less experienced drivers (0–3 years) consistently receive lower ratings, especially those in the 1–2-year range (975 to 973 ratings).
