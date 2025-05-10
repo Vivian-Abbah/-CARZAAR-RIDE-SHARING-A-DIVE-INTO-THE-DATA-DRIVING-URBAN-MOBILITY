@@ -1,5 +1,7 @@
 # -CARZAAR-RIDE-SHARING-A-DIVE-INTO-THE-DATA-DRIVING-URBAN-MOBILITY
+
 Data tells stories only if you’re ready to listen. And with ride-sharing data, the narrative unfolds across streets, seasons, and screens.
+
 INTRODUCTION
 
 When I first opened the Carzaar Ride Sharing dataset, I didn’t just see columns and rows. I saw people, movement, decisions, and friction. This wasn’t just about drivers and passengers, it was about behaviors, patterns, and business impact. As urban mobility evolves, ride-sharing platforms have become pivotal in shaping commuter experiences. Carzaar, a growing ride-sharing company, aims to optimize user satisfaction, increase operational efficiency, and maximize revenue. This report explores key performance indicators across user behavior, payment methods, driver performance, and external factors like weather and surge pricing that will unearth insights, solve real-world problems, and guide smarter transportation strategies. Let’s take the ride.
